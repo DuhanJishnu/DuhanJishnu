@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DuhanJishnu
+- 👋 Hi, I’m @DuhanJishnu Computer Science Student at National Institute of Technology, Meghalaya
 - 👀 I’m interested in Frontend Development
 - 🌱 I’m currently learning Backend
 - 💞️ I’m looking to collaborate on React Js

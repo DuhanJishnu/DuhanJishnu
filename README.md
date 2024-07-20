@@ -2,7 +2,7 @@
 - 👀 I’m interested in Frontend Development
 - 🌱 I’m currently learning Backend
 - 💞️ I’m looking to collaborate on React Js
-- 📫 Reach me at duhanjishnu@gmail.com
+- 📫 Reach me at [MY Portfolio Website](https://duhanjishnu.github.io/Portfolio/)
 - ⚡ Guess if I can center a div or not ....
 
 <!---

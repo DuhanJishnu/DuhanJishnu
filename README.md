@@ -11,41 +11,40 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=800&lines=🚀+AI%2FML+Enthusiast+%7C+🎓+CSE+%40+NIT+Meghalaya;💡+Building+Intelligent+Systems+%7C+🌟+Open+Source+Contributor;⚡+Turning+Coffee+into+Code+%7C+🔥+Always+Learning" alt="Subtitle" />
 </h3>
 
-<!-- Animated divider -->
-<img width="100%" src="https://github.com/user-attachments/assets/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee" />
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"> About Me
 
-class JishnuDuhan:
-def init(self):
-self.name = "Jishnu Duhan"
-self.role = "AI/ML Engineer & Full Stack Developer"
-self.education = "CSE @ NIT Meghalaya"
-self.current_focus = ["AI Agents", "RAG Systems", "LangGraph"]
-self.learning = ["Next.js", "Advanced ML", "System Design"]
-self.passion = "Building AI products that solve real problems"
+```python
+class duhanjishnun:
+    def __init__(self):
+        self.name = "Jishnu Duhan"
+        self.role = "AI/ML Engineer & Full Stack Developer"
+        self.education = "CSE @ NIT Meghalaya"
+        self.current_focus = ["AI Agents", "RAG Systems", "LangGraph"]
+        self.learning = ["Next.js", "Advanced ML", "System Design"]
+        self.passion = "Building AI products that solve real problems"
 
-def get_daily_routine(self):
-    return {
-        "morning": "☕ Coffee + Algorithm practice",
-        "afternoon": "💻 Coding & Building projects",
-        "evening": "📚 Learning new technologies",
-        "night": "🌙 Contributing to open source"
-    }
+    def get_daily_routine(self):
+        return {
+            "morning": "☕ Coffee + Algorithm practice",
+            "afternoon": "💻 Coding & Building projects",
+            "evening": "📚 Learning new technologies",
+            "night": "🌙 Contributing to open source"
+        }
 
-def say_hi(self):
-    print("Thanks for dropping by! Let's build something amazing together 🚀")
-me = JishnuDuhan()
+    def say_hi(self):
+        print("Thanks for dropping by! Let's build something amazing together 🚀")
+
+
+me = duhanjishnun()
 me.say_hi()
-
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+```
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"> Tech Arsenal
 
 ### 🚀 Languages & Core Technologies
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,typescript,java" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,typescript" />
 </div>
 
 ### 🌐 Frontend Development
@@ -55,7 +54,7 @@ me.say_hi()
 
 ### ⚙️ Backend & Databases
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=django,nodejs,express,mongodb,postgresql,firebase" />
+  <img src="https://skillicons.dev/icons?i=django,nodejs,mongodb,postgresql" />
 </div>
 
 ### 🤖 AI/ML & Data Science
@@ -79,53 +78,30 @@ me.say_hi()
 
 <div align="center">
 
-| 🎮 **KBC Quiz React App** | 🤖 **AI Chatbot with RAG** |
+| 🎮 **ShakespeareGPT** | 🤖 **DocuMind** |
 |:---:|:---:|
-| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jishnuduha&repo=kbc-quiz&theme=tokyonight)](https://github.com/jishnuduha/kbc-quiz) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jishnuduha&repo=ai-chatbot&theme=tokyonight)](https://github.com/jishnuduha/ai-chatbot) |
+| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=duhanjishnu&repo=ShakespeareGPT&theme=tokyonight)](https://github.com/duhanjishnu/ShakespeareGPT) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=duhanjishnu&repo=DocuMind&theme=tokyonight)](https://github.com/duhanjishnu/DocuMind) |
 | **📊 Music Recommender** | **📂 CAML Platform** |
-| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jishnuduha&repo=music-recommender&theme=tokyonight)](https://github.com/jishnuduha/music-recommender) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jishnuduha&repo=caml&theme=tokyonight)](https://github.com/jishnuduha/caml) |
+| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=duhanjishnu&repo=Music_Recommender&theme=tokyonight)](https://github.com/duhanjishnu/Music_Recommender) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=charityrymbai&repo=caml&theme=tokyonight)](https://github.com/charityrymbai/caml) |
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="30"> GitHub Analytics
+## 📊 GitHub Analytics  
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jishnuduha&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jishnuduha&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=duhanjishnu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" height="180em"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duhanjishnu&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" height="180em"/>
+</p>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jishnuduha&theme=tokyonight&hide_border=false" alt="streak stats"/>
-</div>
 
-### 📈 Contribution Graph
-[![Jishnu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jishnuduha&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-## <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="30"> Random Dev Quote
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</div>
-
-## <img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" width="30"> Connect With Me
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/jishnu-duhan/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&style=flat-square&labelColor=0077B5" />
-  </a>
-  <a href="mailto:jishnuduhan@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&style=flat-square&labelColor=D14836" />
-  </a>
-  <a href="https://github.com/jishnuduha">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&style=flat-square&labelColor=100000" />
-  </a>
-</div>
 
 ---
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</p>
+
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>

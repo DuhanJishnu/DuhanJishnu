@@ -88,12 +88,6 @@ me.say_hi()
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## 📊 GitHub Analytics  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=duhanjishnu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" height="180em"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duhanjishnu&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" height="180em"/>
-</p>
-
 
 
 ---

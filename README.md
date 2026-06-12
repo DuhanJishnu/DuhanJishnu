@@ -7,34 +7,6 @@
 </div>
 
 
-## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"> About Me
-
-```python
-class duhanjishnu:
-    def __init__(self):
-        self.name = "Jishnu Duhan"
-        self.role = "AI/ML Engineer & Full Stack Developer"
-        self.education = "CSE @ NIT Meghalaya"
-        self.current_focus = ["AI Agents", "RAG Systems", "LangGraph"]
-        self.learning = ["Next.js", "Advanced ML", "System Design"]
-        self.passion = "Building AI products that solve real problems"
-
-    def get_daily_routine(self):
-        return {
-            "morning": "☕ Coffee + Algorithm practice",
-            "afternoon": "💻 The College Hustle",
-            "evening": "📚 Learning new technologies",
-            "night": "🌙 Coding & Building projects"
-        }
-
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something amazing together 🚀")
-
-
-me = duhanjishnu()
-me.say_hi()
-```
-
 ## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"> Tech Arsenal
 
 ### 🚀 Languages & Core Technologies

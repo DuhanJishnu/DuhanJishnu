@@ -74,17 +74,7 @@ me.say_hi()
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30"> Featured Projects
-
-<div align="center">
-
-| 🎮 **ShakespeareGPT** | 🤖 **DocuMind** |
-|:---:|:---:|
-| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=duhanjishnu&repo=ShakespeareGPT&theme=tokyonight)](https://github.com/duhanjishnu/ShakespeareGPT) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=duhanjishnu&repo=DocuMind&theme=tokyonight)](https://github.com/duhanjishnu/DocuMind) |
-| **📊 Music Recommender** | **📂 CAML Platform** |
-| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=duhanjishnu&repo=Music_Recommender&theme=tokyonight)](https://github.com/duhanjishnu/Music_Recommender) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=charityrymbai&repo=caml&theme=tokyonight)](https://github.com/charityrymbai/caml) |
-
-</div>
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30"> 
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
